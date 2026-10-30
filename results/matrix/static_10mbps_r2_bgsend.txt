@@ -1,0 +1,1 @@
+sent 12500 packets in 10.0 s (10.00 Mbps offered, 9.98 Mbps actual)

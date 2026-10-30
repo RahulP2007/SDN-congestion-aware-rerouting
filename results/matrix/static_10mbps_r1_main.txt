@@ -1,0 +1,3 @@
+listening on UDP 5001
+received 7580 of 10000  loss 24.20%
+avg delay 19.10 ms  jitter 0.79 ms  throughput 3.03 Mbps

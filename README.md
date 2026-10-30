@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SDN congestion-aware rerouting
 
 An OpenFlow 1.3 controller (OS-Ken) that watches link load on a two-path
@@ -65,3 +66,7 @@ Adaptive routing cuts main-flow loss by 4-5x under congestion and delay by about
 - Single reroute per run: no reroute back to path A and no hysteresis beyond the 2-reading rule.
 - Detection granularity is the 1 s poll period, so reaction time is 2-4 s.
 - `results/archive_q50/` holds an earlier single-run comparison (queue size 50) kept for reference. It is superseded by the matrix.
+=======
+# SDN-congestion-aware-rerouting
+An OpenFlow 1.3 controller (OS-Ken) that watches link load on a two-path Mininet topology and moves a flow to the idle path when its path congests. It is compared against static routing, where everything stays on path A.
+>>>>>>> 4399ce89d05f123c2393ab3d8342e821b5e60c6b

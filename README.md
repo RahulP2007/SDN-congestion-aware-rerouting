@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SDN congestion-aware rerouting
 
 An OpenFlow 1.3 controller (OS-Ken) that watches link load on a two-path
